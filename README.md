@@ -1,2 +1,2 @@
-# CBEmulators
-All Emulators Made By C00LBOZO Ready To Download
+# ForgeEmulator
+A New Gamecube And Wii Emulator For 32bit And 64bit Ueing Dolphins Source Code.
