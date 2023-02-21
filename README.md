@@ -1,2 +1,2 @@
-# CBEmulators
-All Emulators Made By C00LBOZO Ready To Download
+# SicklePS2Emulator
+A New PS2 Emulator For 64bit And 32bit Using Play!'s Source Code.
