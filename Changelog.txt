@@ -1,3 +1,5 @@
 1.0: App Released For 32bit And 64bit
 2.0: Huge updates for 64bit adding new ui, higher framerate and etc
 Fixed Control Mapping On 32bit
+3.0: New Logo By Derek For 64bit And 32bit 64bit has a new cover logo and increased visibility and fps
+increased fps on 32bit
